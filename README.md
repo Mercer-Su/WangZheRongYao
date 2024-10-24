@@ -3,5 +3,3 @@
 先使用move_window_to_corner.py移动模拟器位置，再运行movement_logic.py（记得先开游戏）
 
 
-Uploading 80536b431b9b4b25aa03c62d09f3eb0b.mp4…
-
